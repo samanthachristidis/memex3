@@ -1,0 +1,21 @@
+Driscoll, Kevin. 2022 “The Birth of the Modem World.” _Slate_, September 7 [https://slate.com/technology/2022/09/modem-world-bbs-internet-history.html](https://slate.com/technology/2022/09/modem-world-bbs-internet-history.html).
+
+Summary
+
+- Over the past few years, Driscoll has asked dozens of college students to write down, in a sentence or two, where the internet came from. He noticed most mention the U.S. government, Silicon Valley, the military, and the threat of nuclear war.
+- He concluded that despite the internet's scale and global reach, its histories are narrow. This reflects the uncertain definition of "the internet", which is why students continue to repeat stories from 25 years ago.
+- The standard account of internet history takes shape in the early 1990s, as a mixture of commercial online services, university networks, and local community networks mutated into something bigger, more commercial, and more accessible to the general public.
+- In the 1980s, modems were a technology of distinction among computer enthusiasts, capable of traversing the emerging byways of cyberspace. These networks came to be known as the "modem world", and the dial-up modem was at the core of this history.
+- The modem world developed in parallel to the ARPANET family of networks, but was driven by community-oriented amateurs and entrepreneurs.
+- The bulletin board system was the predominant form of PC networking, and linked microcomputer enthusiasts, as well as communities bound together by interests and identities that were otherwise excluded from mainstream media systems.
+- Ward Christensen and Randy Suess created the Computerized Bulletin Board System, or CBBS, using a home-built S-100 microcomputer and a brand-new Hayes modem. The system quickly became a popular public forum for computer hobbyists.
+- CBBS was a dial-up BBS that could handle just one user at a time. Users needed a telephone modem and some kind of data terminal to get online, and the system welcomed them with a message and instructions on navigating the system.
+- In November 1978, Byte magazine ran a special issue on communications featuring an article by Christensen and Suess that explained the technical architecture of CBBS and invited readers to try the system out.
+- In 1979, two new commercial online services launched with the hope of attracting PC owners. The Source and MicroNET offered access to international news, stock market data, real estate listings, and restaurant reviews, but it was neither information nor access to computers that kept subscribers paying.
+- The summer of 1983 brought the rise of a new stereotype: the tech-savvy teen. Teens attached modems to their home computers and began hosting bulletin boards of their own.
+- Unlike nationwide commercial services, BBSs tended to serve a local population of users and system operators were keenly aware of the local nature of BBS culture. Sysops hosted parties at their homes or a favorite watering hole where users could hang out.
+- In the 1980s, BBSs served communities of interest within the city, and people who wanted to talk about amateur astronomy found their way to one board, while people who wanted to trade pirated software found another.
+- To bring users from different regions together, Tom Jennings developed a technique that allowed two BBSs running his "Fido" software to automatically fetch messages and files from one another. The technique became an open standard for exchanging files and messages between BBSs.
+- Driscoll states that the modem world was dominated by young, white, middle-class males, but soon spread to serve other groups with a more urgent need for alternative media. Misogyny, homophobia, and white supremacy plagued the modem world, just as they do today's social media platforms.
+- Between 1994 and 1995, the World Wide Web became the public face of cyberspace, and BBSs were replaced by brand-new "internet service providers" to avoid the stigma of "cyberporn".
+- People who built the modem world in the 1980s laid the groundwork for millions of others who would bring their lives online in the 1990s and beyond.
